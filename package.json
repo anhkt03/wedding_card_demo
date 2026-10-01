@@ -1,0 +1,13 @@
+{
+  "name": "wedding-card-demo",
+  "version": "1.0.0",
+  "description": "Thiệp cưới online Minh Khang & Thanh Hà",
+  "private": true,
+  "scripts": {
+    "start": "node serve.js",
+    "start:lan": "node serve.js --host 0.0.0.0"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
